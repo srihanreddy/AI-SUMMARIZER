@@ -31,7 +31,7 @@ PDF-SUMMARIZER-AI/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/PDF-SUMMARIZER-AI.git  
+git clone https://github.com/srihanreddy/AI-SUMMARIZER-AI.git  
 cd PDF-SUMMARIZER-AI
 
 ### 2. Install dependencies
