@@ -1,0 +1,15 @@
+# PDF SUMMARIZER AI/requirements.txt
+
+PyMuPDF==1.23.5
+openai>=1.17.0
+python-dotenv==1.0.1
+rich==13.7.1
+tiktoken
+httpx>=0.27.0
+sentence-transformers
+faiss-cpu
+pandas
+python-pptx
+camelot-py[cv]
+opencv-python==4.6.0.66
+numpy==1.26.4
